@@ -7,18 +7,16 @@ const Blogs=()=> {
       <h2>
         1. What is contaxt api?
       </h2>
-      <h3>
-        The Context API is a React structure that enables you to exchange unique details and assists in solving prop-drilling from all levels of your application. It is using for changing state. 
-        Redux is the best example of an context api.
-      </h3>
+      <h4>
+      The Context API is a React structure that lets you share unique details and helps you solve prop-drilling problems at various levels of your project. It's used to change the status of things. The best example of a context API is Redux.
+      </h4>
 
       <h2>
         2. What is symantic tag?
       </h2>
-      <h3>
-        Semantic HTML elements are those that clearly describe their meaning in a human- and machine-readable way.
-        Now elements are header, footer, aside, artical ect.
-      </h3>
+      <h4>
+      HTML5 semantic tags define the purpose of the element. By using semantic markup, you help the browser understand the meaning of the content instead of just displaying it. By providing this extra level of clarity, HTML5 semantic elements also help search engines to read the page and find the required information faster.
+      </h4>
     </div>
   )
 }
