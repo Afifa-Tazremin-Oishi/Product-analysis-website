@@ -7,7 +7,7 @@ This is our live project [Chose Your Best Laptop Providing Customer Review]().
 In the project directory, you can run:
 
 ### `What is in our website`
- 1. In this website we are review a laptop for yours.
+ 1. In this website we are review cameras for yours.
  2. Our humble try was to help you for finding something that you need.
  3. We have an dashboard where we show some data as chart.
  4. We add customer reviews for helping new customers.
